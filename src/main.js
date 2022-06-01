@@ -13,12 +13,12 @@ import { updateDoc } from "firebase/firestore";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBjAX2_vN6OSMr55wAmnbniR_SVSGMjvEw",
-    authDomain: "vue-calendario-70363.firebaseapp.com",
-    projectId: "vue-calendario-70363",
-    storageBucket: "vue-calendario-70363.appspot.com",
-    messagingSenderId: "372668901971",
-    appId: "1:372668901971:web:a73a1c1114700d001bf4a6"
+    apiKey: "####",
+    authDomain: "####",
+    projectId: "####",
+    storageBucket: "#####",
+    messagingSenderId: "#####",
+    appId: "#####"
 };
 
 // Initialize Firebase
